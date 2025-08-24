@@ -12,7 +12,7 @@
 - 🕵️ **PortSwigger Labs Writeups** → Web Security Academy labs (SQLi, XSS, Auth, Access Control)  
   https://github.com/nedkocyber/PortSwigger-Labs
 - 🎓 **HTB Academy Writeups** → Module notes, key takeaways & practical exercises  
-  (линк към репото ти за Academy, ако е отделно)
+  https://github.com/nedkocyber/HTB-Academy-Writeups
 
 ---
 
