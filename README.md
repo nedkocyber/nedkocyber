@@ -23,7 +23,7 @@
 - **Programming & Scripting:** Python, C, Bash, PowerShell(basics)  
 - **Virtualization & Environments:** VirtualBox, VMware
 - **Version Control:** Git, GitHub  
-- **Other Tools:** Netcat, Gobuster, Feroxbuster, and many more... 
+- **Other Tools:** Netcat, Gobuster,Ffuf, and many more... 
 
 
 ---
