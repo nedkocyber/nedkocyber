@@ -1,8 +1,8 @@
-# 👋 Hi, I’m Nedio (nedkocyber)
+# 👋 Hi, I’m Nedyo (nedkocyber)
 
 🔒 **Cybersecurity enthusiast & pentester-in-training**  
 🧪 Focus: **Hack The Box**, **PortSwigger Web Security Academy**, offensive security labs  
-🧰 Tools: **Linux, Bash, Python, Nmap, Burp Suite, Wireshark, Metasploit**
+🧰 Tools: **Linux, Bash, Python, Nmap, Burp Suite, Wireshark, Metasploit, and many more...**
 
 ---
 
@@ -29,15 +29,3 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nedkocyber&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nedkocyber&layout=compact)
-![Streak](https://streak-stats.demolab.com?user=nedkocyber)
-
----
-
-## 📫 Contact
-- Email: your.email@example.com
-- LinkedIn: (линк към профила ти)
-
-> “Curious, persistent, and always learning.”
