@@ -15,7 +15,15 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Core Skills & Tools
+- **Operating Systems:** Windows, Linux (Ubuntu, Kali)  
+- **Networking & Security:** TCP/IP, DNS, HTTP/S, Firewalls, Wireshark  
+- **Penetration Testing:** Nmap, Burp Suite, Metasploit, Hydra  
+- **Web Security:** SQLi, XSS, Authentication & Access Control testing  
+- **Programming & Scripting:** Python, C, Bash, PowerShell(basics)  
+- **Virtualization & Environments:** VirtualBox, VMware
+- **Version Control:** Git, GitHub  
+- **Other Tools:** Netcat, Gobuster, Feroxbuster, and many more... 
 
 
 ---
@@ -28,3 +36,7 @@
 
 ---
 
+## 🎯 Goals
+- Gain hands-on experience in penetration testing and red teaming  
+- Expand knowledge in web application security, exploit development and malware development
+- Contribute to open-source cybersecurity projects  
