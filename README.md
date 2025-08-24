@@ -2,7 +2,6 @@
 
 🔒 **Cybersecurity enthusiast & pentester-in-training**  
 🧪 Focus: **Hack The Box**, **PortSwigger Web Security Academy**, offensive security labs  
-🧰 Tools: **Linux, Bash, Python, Nmap, Burp Suite, Wireshark, Metasploit, and many more...**
 
 ---
 
